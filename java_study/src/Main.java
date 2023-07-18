@@ -4,5 +4,9 @@ public class Main {
         System.out.println("이거는 되나?");
         System.out.println("이렇게?");
         System.out.println("ddddd");
+        System.out.println("ddddd");
+        System.out.println("ddddd");
+        System.out.println("ddddd");
+        System.out.println("ddddd");
     }
 }
