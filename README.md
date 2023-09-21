@@ -259,8 +259,9 @@ return str.startsWith("A");
 - `str: String?`에서 `?`는 `str` 변수가 null일 수 있다는 것을 나타냅니다.
 - `Boolean?`는 `Boolean` 타입이거나 null일 수 있는 값을 나타냅니다.
 - 이러한 접근 방식은 Kotlin에서 안전한 null 처리를 강조하며 NullPointerException을 방지하는 데 도움을 줍니다.
-- 
+
 <br>
+
 ### **Kotlin Safe Call 연산자**
 
 ```kotlin
